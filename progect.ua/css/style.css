@@ -1,0 +1,483 @@
+body{
+	 background: url('../images/199.jpg');
+margin-left:0px;
+margin-right:0px;
+margin-top: 0px;
+border:none;
+	 
+}
+#last {
+	margin-left: 10px;
+}
+#rr {
+background-color:white;
+margin-left: auto;
+    margin-right: auto;
+}
+
+#rr img{
+	width: 200px;
+	height: 120px;
+	margin: 2px;
+	padding-left: 20px;
+}
+
+.zz a{
+ text-decoration: none;
+  outline: none;
+  display: inline-block;
+  width: 190px;
+  height: 45px;
+  padding-top: 3px;
+  line-height: 45px;
+  border-radius: 45px;
+  float: right;
+  margin: 25px -15px ;
+  margin-right: 75px;
+  font-family: Georgia;
+  font-size: 11px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: blue;
+  background: white;
+  border:1px solid blue; 
+  box-shadow: 0 8px 15px rgba(0,0,0,.1);
+  transition: .3s;
+ 
+
+}
+.zz a:hover {
+  background: #2EE59D;
+  box-shadow: 0 15px 20px rgba(46,229,157,.4);
+  color: white;
+  transform: translateY(-7px);
+
+}
+
+#ee{
+width: 1500px;
+height: auto;
+padding: 5px;
+margin-top: 35px;
+background-color:white;
+margin-left: auto;
+    margin-right: auto;
+}
+.baner figure{
+	 background: url("../images/as1.jpg") ;
+	 background-position: center;
+	 padding-top:45px; 
+	
+	 position: relative;
+	 min-height: 70vh;
+	 margin: 32px;
+	
+}
+
+.baner h1{
+	top: 59%;
+	left: 229px;
+	transform: translate(-40px,-40px);
+	position: absolute;
+	font-size: 2em;
+	font-family: Georgia;
+	text-align: center;
+	text-transform: uppercase;
+	color: white;text-shadow: 1px 1px 2px black, 0 0 1em red;
+}
+.baner p{
+	top: 69%;
+	left: 280px;
+	transform: translate(-50px,-50px);
+	position: absolute;
+	font-size: 2em;
+	font-family: Georgia;
+	text-align: center;
+	text-transform: uppercase;
+	color: white;text-shadow: 1px 1px 2px black, 0 0 1em red;
+}
+.baner  a{
+
+ text-decoration: none;
+  outline: none;
+  display: inline-block;
+  width: 360px;
+  height: 48px;
+  padding-top:5px;
+  line-height: 45px;
+  border-radius: 45px;
+  float: right;
+  margin: 25px -15px ;
+  margin-right: 580px;
+  margin-top: 440px;
+  font-family: Georgia;
+  font-size: 14px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: white;
+  background: blue;
+  border:1px solid blue; 
+  box-shadow: 0 8px 15px rgba(0,0,0,.1);
+  transition: .3s;
+ 
+
+}
+.baner a:hover {
+  background: #2EE59D;
+  box-shadow: 0 15px 20px rgba(46,229,157,.4);
+  color: white;
+  transform: translateY(-7px);}
+
+#inf{
+	
+background-color:white;
+margin:45px;
+ margin-left: 140px;
+}
+
+#line_block,#red { 
+        width:497px; 
+        height:340px;
+        float:left; 
+        margin: 0 -5px -5px 0; 
+        text-align:center;
+        padding: 5px;
+        margin-top: -5px;
+        margin-left: 5px;
+
+        }
+        #line_block img{
+        	width: 220px;
+        	height: 145px;
+        	margin-top: 25px;
+        }
+        #line_block h3{
+        	font-size: 34px  ;
+        	margin: 5px;
+        	font-family: Georgia;
+        }
+       
+        #red{
+        	width: auto;
+        	height: auto;
+background-color:white;
+
+
+}
+        #coment{
+        	width: 1510px;
+        	height: auto;
+        	background-color:white;
+        	margin-top: 425px;
+        	margin-left: auto;
+    margin-right: auto;
+        	padding-top: 25px;
+        }
+        .news img{
+        	width: 1200px;
+        	height:660px;
+        	margin-left: 140px;
+        	margin-top: 50px;
+        }
+
+.prokrutka {
+ overflow: scroll; /* Добавляем полосы прокрутки */
+    width: 1400px; /* Ширина блока */
+    height: 480px; /* Высота блока */
+    padding: 5px; /* Поля вокруг текста */
+    border: solid 1px  #2EE59D;/* Параметры рамки */
+    margin-left: 45px;
+    background-color: #e9e9e9; 
+   margin-top: 25px;
+
+}
+.prokrutka p{
+	margin-left: 60px; 
+	margin-top: -225px;
+	padding-top: 195px;
+	font-family: Georgia;
+	font-size: 17px;
+}
+
+.prokrutka hr{
+background-color:blue; 
+
+
+
+}
+
+ #coment1{
+        	width: 1510px;
+        	height: 750px;
+        	background-color:white;
+        	margin-top: 45px;
+        	margin-left: auto;
+    margin-right: auto;
+        	padding-top: 5px;
+        }
+        .news1 img{
+        	width: 1300px;
+        	height:590px;
+        	margin-left: 140px;
+        	margin-top: 20px;
+        }
+        #coment1 h3{
+
+        	font-size: 26px  ;
+        	margin: 5px;
+        	font-family: Georgia;
+        	text-align: center;
+        	margin: 10px;
+
+        }
+
+
+        #rp{
+        	width: 1510px;
+        	height: 450px;
+        	background-color:white;
+        	margin-top: 125px;
+        	margin-left: 160px;
+        }
+
+	 #rp h1{
+	 	text-align: center;
+	 	font-family:Georgia;
+	 	font-family: 32px bold; 
+	 	font-weight: 400;
+	 	margin-top: 65px;
+	 	padding-top: 55px;
+
+	 }
+
+	#rp{
+	height: 540px;
+background-color:white;
+margin-left: auto;
+    margin-right: auto;
+
+}
+
+#line_block1 ,#red1 { 
+        width:500px; 
+        height:380px;
+        float:left; 
+        margin: 0 -5px -5px 0; 
+        text-align:center;
+        padding: 5px;
+        margin-top: -5px;
+        margin-left: -5px;
+
+        }
+        #line_block1 img{
+        	width: 200px;
+        	height: 200px;
+        	margin-top: 95px;
+        	 border-radius: 110px; /* Радиус скругления */
+        	
+   
+
+        }
+        #line_block1 h3{
+        	font-size: 34px  ;
+        	margin: 5px;
+        	font-family: Georgia;
+
+        }
+
+       
+        #red1{
+        	width: auto;
+        	height: auto;
+background-color:white;
+
+}
+
+.cl img{
+
+width: 35px;
+height: 35px;
+float: right;
+margin-left: 15px;
+padding-left: 10px;
+margin-top: 5px;
+margin-right: 55px;
+
+
+}
+.cl p{
+	text-align: right;
+	margin-left: 125px;
+	padding-top:-21px; 
+	color: red;
+}
+
+.cl1 img{
+
+width: 35px;
+height: 35px;
+float: right;
+margin-left: 35px;
+padding-left: 5px;
+margin-top: 2px;
+margin-right: 35px;
+
+
+}
+.cl1 p{
+	text-align: right;
+	margin: 2px;
+	padding: 12px;
+	color: blue;
+}
+
+       html {
+            font-size: 16px;
+            font-family: Georgia;
+        }
+
+        .media-body .author {
+            display: inline-block;
+            font-size: 1rem;
+            color: #000;
+            font-weight: 700;
+        }
+
+        .media-body .metadata {
+            display: inline-block;
+            margin-left: .5rem;
+            color: #777;
+            font-size: .8125rem;
+        }
+
+        .footer-comment {
+            color: #777;
+        }
+
+        .vote.plus:hover {
+            color: green;
+        }
+
+        .vote.minus:hover {
+            color: red;
+        }
+
+        .vote {
+            cursor: pointer;
+        }
+
+        .comment-reply a {
+            color: #777;
+            margin: 10px;
+            font-family: Georgia;
+        }
+
+        .comment-reply a:hover, .comment-reply a:focus {
+            color: #000;
+            text-decoration: none;
+        }
+
+        .devide {
+            padding: 0px 4px;
+            font-size: 0.9em;
+        }
+
+        .media-text {
+            margin-bottom: 0.25rem;
+        }
+
+        .title-comments {
+        	margin-top: 15px;
+        	margin-left: 10px;
+            font-size: 1.4rem;
+            font-weight: bold;
+            line-height: 1.5rem;
+            color: rgba(0, 0, 0, .87);
+            margin-bottom: 1rem;
+            padding-bottom: .25rem;
+            border-bottom: 1px solid rgba(34, 36, 38, .15);
+        }
+
+
+#ff{
+	width: 1520px;
+        	height: 210px;
+        	background-color:white;
+        	margin-top: 65px;
+        	margin-left: auto;
+    margin-right: auto;
+}
+.uu a{
+text-decoration: none;
+  outline: none;
+  display: inline-block;
+  width: 380px;
+  height: 48px;
+  padding-top: 5px;
+  line-height: 45px;
+  border-radius: 45px;
+  float: right;
+  margin: 25px -15px ;
+  margin-right: 600px;
+  margin-top: 20px;
+  font-family: Georgia;
+  font-size: 18px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: white;
+  background: blue;
+  border:1px solid blue; 
+  box-shadow: 0 8px 15px rgba(0,0,0,.1);
+  transition: .3s;
+}
+.uu a:hover{
+	  background: #2EE59D;
+  box-shadow: 0 15px 20px rgba(46,229,157,.4);
+  color: white;
+  transform: translateY(-7px);
+}
+.uu h2{
+	font-family: Georgia;
+	font-size: 260%;
+	text-align: center;
+	padding-top: 15px;
+
+}
+footer{
+	width: 1795px;
+        	height: 320px;
+        	background-color:white;
+        	margin-top: 590px;
+			
+			border:none;
+	margin-left: 3px;
+    margin-right: auto;
+margin-top: 5px;
+border:none;
+}
+footer h5 {
+	font-family: Georgia;
+	font-size: 160%;
+	text-align: center;
+	padding-top: 65px;
+}
+footer p{
+	font-family: Georgia;
+	font-size: 100%;
+	text-align: center;
+	padding-top: -85px;
+
+}
+
+.form form {
+  width: 300px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
